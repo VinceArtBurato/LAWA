@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "6557808207c3dcd0c4b721e4"
+  },
+  "productName": "Cover all - Green",
+  "productID": {
+    "$oid": "6557808207c3dcd0c4b721e5"
+  },
+  "__v": 0,
+  "collectionPrice": 110
+},
+{
+  "_id": {
+    "$oid": "65577f7007c3dcd0c4b721e1"
+  },
+  "productName": "Cover All-Yellow",
+  "productID": {
+    "$oid": "65577f7007c3dcd0c4b721e2"
+  },
+  "__v": 0,
+  "collectionPrice": 110
+},
+{
+  "_id": {
+    "$oid": "6557808207c3dcd0c4b721e6"
+  },
+  "productName": "Cover all - Blue",
+  "productID": {
+    "$oid": "6557808207c3dcd0c4b721e7"
+  },
+  "__v": 0,
+  "collectionPrice": 110
+},
+{
+  "_id": {
+    "$oid": "6557808207c3dcd0c4b721e8"
+  },
+  "productName": "Head Cap- White",
+  "productID": {
+    "$oid": "6557808207c3dcd0c4b721e9"
+  },
+  "__v": 0,
+  "collectionPrice": 15
+},
+{
+  "_id": {
+    "$oid": "6557808207c3dcd0c4b721ea"
+  },
+  "productName": "Apron - Orange",
+  "productID": {
+    "$oid": "6557808207c3dcd0c4b721eb"
+  },
+  "__v": 0,
+  "collectionPrice": 15
+},
+{
+  "_id": {
+    "$oid": "6557808207c3dcd0c4b721f4"
+  },
+  "productName": "Head Cap (Jersey)- Baby Blue",
+  "productID": {
+    "$oid": "6557808207c3dcd0c4b721f5"
+  },
+  "__v": 0,
+  "collectionPrice": 15
+},
+{
+  "_id": {
+    "$oid": "6557808207c3dcd0c4b721ec"
+  },
+  "productName": "Apron - Plastic",
+  "productID": {
+    "$oid": "6557808207c3dcd0c4b721ed"
+  },
+  "__v": 0,
+  "collectionPrice": 15
+},
+{
+  "_id": {
+    "$oid": "6557808207c3dcd0c4b721f0"
+  },
+  "productName": "Pants and Jacket- Maroon",
+  "productID": {
+    "$oid": "6557808207c3dcd0c4b721f1"
+  },
+  "__v": 0,
+  "collectionPrice": 15
+},
+{
+  "_id": {
+    "$oid": "6557808207c3dcd0c4b721ee"
+  },
+  "productName": "Apron (Cloth)- Blue",
+  "productID": {
+    "$oid": "6557808207c3dcd0c4b721ef"
+  },
+  "__v": 0,
+  "collectionPrice": 15
+},
+{
+  "_id": {
+    "$oid": "6557808207c3dcd0c4b721f2"
+  },
+  "productName": "Apron (Cloth)- Maroon",
+  "productID": {
+    "$oid": "6557808207c3dcd0c4b721f3"
+  },
+  "__v": 0,
+  "collectionPrice": 15
+}]

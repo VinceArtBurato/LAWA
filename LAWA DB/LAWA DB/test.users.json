@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "657fc3e639bc9af861a2cda4"
+  },
+  "username": "buratovinceart2002@gmail.com",
+  "password": "$2b$10$scHD9i6RovWi/QHKplsq/.VWclJNvvry9Vh.sSw2FA7hyz2fJv10m",
+  "firstName": "Jhon Christian",
+  "lastName": "Bucio",
+  "address": "p3 jasaaan",
+  "dateOfBirth": {
+    "$date": "2002-02-02T00:00:00.000Z"
+  },
+  "email": "buratovinceart2002@gmail.com",
+  "role": "user",
+  "validated": true,
+  "userID": {
+    "$oid": "657fc3e639bc9af861a2cda5"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657fc44839bc9af861a2cdb2"
+  },
+  "username": "kleviecaseres@buksu.edu.ph",
+  "password": "$2b$10$uEL3/Q.maUj1neoOLK4dmunaJPa52xYorrI9c3kSxhxohmi7s8Xiu",
+  "firstName": "uih",
+  "lastName": "kssd",
+  "address": "huuih",
+  "dateOfBirth": {
+    "$date": "2050-02-02T00:00:00.000Z"
+  },
+  "email": "kleviecaseres@buksu.edu.ph",
+  "role": "user",
+  "validated": true,
+  "userID": {
+    "$oid": "657fc44839bc9af861a2cdb3"
+  },
+  "__v": 0
+}]

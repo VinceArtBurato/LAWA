@@ -1,0 +1,341 @@
+[{
+  "_id": {
+    "$oid": "65783c98b2abf4feea5eace5"
+  },
+  "submissionID": {
+    "$oid": "65781865a2eb76fa52da1e0e"
+  },
+  "approvedBy": {
+    "$oid": "655dafcd99fba4c2534268d3"
+  },
+  "approvedQuantity": 77,
+  "commissionPrice": 110,
+  "user": {
+    "$oid": "6577ee527a4d679b00be67d0"
+  },
+  "client": {
+    "$oid": "65577d97ed19c58268736213"
+  },
+  "dateSubmitted": {
+    "$date": "2023-12-12T08:23:01.769Z"
+  },
+  "product": {
+    "$oid": "65577f7007c3dcd0c4b721e1"
+  },
+  "quantity": 77,
+  "validationStatus": "approved",
+  "approvalDate": {
+    "$date": "2023-12-12T10:57:28.393Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65783cadb2abf4feea5eacf7"
+  },
+  "submissionID": {
+    "$oid": "6578186ba2eb76fa52da1e14"
+  },
+  "approvedBy": {
+    "$oid": "655dafcd99fba4c2534268d3"
+  },
+  "approvedQuantity": 11,
+  "commissionPrice": 110,
+  "user": {
+    "$oid": "6577ee527a4d679b00be67d0"
+  },
+  "client": {
+    "$oid": "65577d97ed19c58268736213"
+  },
+  "dateSubmitted": {
+    "$date": "2023-12-12T08:23:07.898Z"
+  },
+  "product": {
+    "$oid": "65577f7007c3dcd0c4b721e1"
+  },
+  "quantity": 11,
+  "validationStatus": "approved",
+  "approvalDate": {
+    "$date": "2023-12-12T10:57:49.467Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65783cb1b2abf4feea5ead02"
+  },
+  "submissionID": {
+    "$oid": "65781870a2eb76fa52da1e1a"
+  },
+  "approvedBy": {
+    "$oid": "655dafcd99fba4c2534268d3"
+  },
+  "approvedQuantity": 15,
+  "commissionPrice": 110,
+  "user": {
+    "$oid": "6577ee527a4d679b00be67d0"
+  },
+  "client": {
+    "$oid": "65577d97ed19c58268736213"
+  },
+  "dateSubmitted": {
+    "$date": "2023-12-12T08:23:12.730Z"
+  },
+  "product": {
+    "$oid": "65577f7007c3dcd0c4b721e1"
+  },
+  "quantity": 15,
+  "validationStatus": "approved",
+  "approvalDate": {
+    "$date": "2023-12-12T10:57:53.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65785c8d5aeec21c2c764229"
+  },
+  "submissionID": {
+    "$oid": "65785c5b5aeec21c2c7641ff"
+  },
+  "approvedBy": {
+    "$oid": "655dafcd99fba4c2534268d3"
+  },
+  "approvedQuantity": 46,
+  "commissionPrice": 15,
+  "user": {
+    "$oid": "65785c395aeec21c2c7641f0"
+  },
+  "client": {
+    "$oid": "65577d55ed19c58268736210"
+  },
+  "dateSubmitted": {
+    "$date": "2023-12-12T13:12:59.584Z"
+  },
+  "product": {
+    "$oid": "6557808207c3dcd0c4b721ec"
+  },
+  "quantity": 46,
+  "validationStatus": "approved",
+  "approvalDate": {
+    "$date": "2023-12-12T13:13:50.005Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657997d257b53d1082451aa6"
+  },
+  "submissionID": {
+    "$oid": "65785c615aeec21c2c764205"
+  },
+  "approvedBy": {
+    "$oid": "655dafcd99fba4c2534268d3"
+  },
+  "approvedQuantity": 6,
+  "commissionPrice": 15,
+  "user": {
+    "$oid": "65785c395aeec21c2c7641f0"
+  },
+  "client": {
+    "$oid": "65577d55ed19c58268736210"
+  },
+  "dateSubmitted": {
+    "$date": "2023-12-12T13:13:05.496Z"
+  },
+  "product": {
+    "$oid": "6557808207c3dcd0c4b721ec"
+  },
+  "quantity": 6,
+  "validationStatus": "approved",
+  "approvalDate": {
+    "$date": "2023-12-13T11:38:58.392Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6579980257b53d1082451ace"
+  },
+  "submissionID": {
+    "$oid": "65785c6b5aeec21c2c76420b"
+  },
+  "approvedBy": {
+    "$oid": "655dafcd99fba4c2534268d3"
+  },
+  "approvedQuantity": 3,
+  "commissionPrice": 110,
+  "user": {
+    "$oid": "65785c395aeec21c2c7641f0"
+  },
+  "client": {
+    "$oid": "65577d55ed19c58268736210"
+  },
+  "dateSubmitted": {
+    "$date": "2023-12-12T13:13:15.598Z"
+  },
+  "product": {
+    "$oid": "6557808207c3dcd0c4b721e6"
+  },
+  "quantity": 3,
+  "validationStatus": "approved",
+  "approvalDate": {
+    "$date": "2023-12-13T11:39:46.746Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657f00c9b089a05d12b674f3"
+  },
+  "submissionID": {
+    "$oid": "657f0085b089a05d12b674ca"
+  },
+  "approvedBy": {
+    "$oid": "655dafcd99fba4c2534268d3"
+  },
+  "approvedQuantity": 2,
+  "commissionPrice": 110,
+  "user": {
+    "$oid": "657f001cb089a05d12b674ba"
+  },
+  "client": {
+    "$oid": "65577d55ed19c58268736210"
+  },
+  "dateSubmitted": {
+    "$date": "2023-12-17T14:07:01.072Z"
+  },
+  "product": {
+    "$oid": "65577f7007c3dcd0c4b721e1"
+  },
+  "quantity": 2,
+  "validationStatus": "approved",
+  "approvalDate": {
+    "$date": "2023-12-17T14:08:09.651Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657f00dab089a05d12b67510"
+  },
+  "submissionID": {
+    "$oid": "657f0089b089a05d12b674d0"
+  },
+  "approvedBy": {
+    "$oid": "655dafcd99fba4c2534268d3"
+  },
+  "approvedQuantity": 5,
+  "commissionPrice": 110,
+  "user": {
+    "$oid": "657f001cb089a05d12b674ba"
+  },
+  "client": {
+    "$oid": "65577d55ed19c58268736210"
+  },
+  "dateSubmitted": {
+    "$date": "2023-12-17T14:07:05.403Z"
+  },
+  "product": {
+    "$oid": "65577f7007c3dcd0c4b721e1"
+  },
+  "quantity": 5,
+  "validationStatus": "approved",
+  "approvalDate": {
+    "$date": "2023-12-17T14:08:26.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657fb61e13df120d321fbe45"
+  },
+  "submissionID": {
+    "$oid": "657fb5a813df120d321fbe03"
+  },
+  "approvedBy": {
+    "$oid": "655dafcd99fba4c2534268d3"
+  },
+  "approvedQuantity": 2,
+  "commissionPrice": 15,
+  "user": {
+    "$oid": "657fb54013df120d321fbdee"
+  },
+  "client": {
+    "$oid": "65577d55ed19c58268736210"
+  },
+  "dateSubmitted": {
+    "$date": "2023-12-18T02:59:52.440Z"
+  },
+  "product": {
+    "$oid": "6557808207c3dcd0c4b721f2"
+  },
+  "quantity": 2,
+  "validationStatus": "approved",
+  "approvalDate": {
+    "$date": "2023-12-18T03:01:50.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657fc4cc39bc9af861a2cdff"
+  },
+  "submissionID": {
+    "$oid": "657fc47b39bc9af861a2cdc4"
+  },
+  "approvedBy": {
+    "$oid": "655dafcd99fba4c2534268d3"
+  },
+  "approvedQuantity": 3,
+  "commissionPrice": 110,
+  "user": {
+    "$oid": "657fc44839bc9af861a2cdb2"
+  },
+  "client": {
+    "$oid": "65577d55ed19c58268736210"
+  },
+  "dateSubmitted": {
+    "$date": "2023-12-18T04:03:07.237Z"
+  },
+  "product": {
+    "$oid": "65577f7007c3dcd0c4b721e1"
+  },
+  "quantity": 3,
+  "validationStatus": "approved",
+  "approvalDate": {
+    "$date": "2023-12-18T04:04:28.675Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657fc4cf39bc9af861a2ce0a"
+  },
+  "submissionID": {
+    "$oid": "657fc49739bc9af861a2cdca"
+  },
+  "approvedBy": {
+    "$oid": "655dafcd99fba4c2534268d3"
+  },
+  "approvedQuantity": 1,
+  "commissionPrice": 110,
+  "user": {
+    "$oid": "657fc44839bc9af861a2cdb2"
+  },
+  "client": {
+    "$oid": "65577d55ed19c58268736210"
+  },
+  "dateSubmitted": {
+    "$date": "2023-12-18T04:03:35.698Z"
+  },
+  "product": {
+    "$oid": "65577f7007c3dcd0c4b721e1"
+  },
+  "quantity": 1,
+  "validationStatus": "approved",
+  "approvalDate": {
+    "$date": "2023-12-18T04:04:31.132Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "657f00c9b089a05d12b674f5"
+  },
+  "approvedProduct": {
+    "$oid": "657f00c9b089a05d12b674f3"
+  },
+  "product": {
+    "$oid": "65577f7007c3dcd0c4b721e1"
+  },
+  "client": {
+    "$oid": "65577d55ed19c58268736210"
+  },
+  "quantity": 2,
+  "totalShare": 220,
+  "dateApproved": {
+    "$date": "2023-12-17T14:08:09.651Z"
+  },
+  "user": {
+    "$oid": "657f001cb089a05d12b674ba"
+  },
+  "status": "pending",
+  "payrollID": {
+    "$oid": "657f00c9b089a05d12b674f6"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657f00dab089a05d12b67512"
+  },
+  "approvedProduct": {
+    "$oid": "657f00dab089a05d12b67510"
+  },
+  "product": {
+    "$oid": "65577f7007c3dcd0c4b721e1"
+  },
+  "client": {
+    "$oid": "65577d55ed19c58268736210"
+  },
+  "quantity": 5,
+  "totalShare": 550,
+  "dateApproved": {
+    "$date": "2023-12-17T14:08:26.606Z"
+  },
+  "user": {
+    "$oid": "657f001cb089a05d12b674ba"
+  },
+  "status": "pending",
+  "payrollID": {
+    "$oid": "657f00dab089a05d12b67513"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657fb61e13df120d321fbe47"
+  },
+  "approvedProduct": {
+    "$oid": "657fb61e13df120d321fbe45"
+  },
+  "product": {
+    "$oid": "6557808207c3dcd0c4b721f2"
+  },
+  "client": {
+    "$oid": "65577d55ed19c58268736210"
+  },
+  "quantity": 2,
+  "totalShare": 30,
+  "dateApproved": {
+    "$date": "2023-12-18T03:01:50.062Z"
+  },
+  "user": {
+    "$oid": "657fb54013df120d321fbdee"
+  },
+  "status": "pending",
+  "payrollID": {
+    "$oid": "657fb61e13df120d321fbe48"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657fc4cc39bc9af861a2ce01"
+  },
+  "approvedProduct": {
+    "$oid": "657fc4cc39bc9af861a2cdff"
+  },
+  "product": {
+    "$oid": "65577f7007c3dcd0c4b721e1"
+  },
+  "client": {
+    "$oid": "65577d55ed19c58268736210"
+  },
+  "quantity": 3,
+  "totalShare": 330,
+  "dateApproved": {
+    "$date": "2023-12-18T04:04:28.675Z"
+  },
+  "user": {
+    "$oid": "657fc44839bc9af861a2cdb2"
+  },
+  "status": "pending",
+  "payrollID": {
+    "$oid": "657fc4cc39bc9af861a2ce02"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657fc4cf39bc9af861a2ce0c"
+  },
+  "approvedProduct": {
+    "$oid": "657fc4cf39bc9af861a2ce0a"
+  },
+  "product": {
+    "$oid": "65577f7007c3dcd0c4b721e1"
+  },
+  "client": {
+    "$oid": "65577d55ed19c58268736210"
+  },
+  "quantity": 1,
+  "totalShare": 110,
+  "dateApproved": {
+    "$date": "2023-12-18T04:04:31.132Z"
+  },
+  "user": {
+    "$oid": "657fc44839bc9af861a2cdb2"
+  },
+  "status": "pending",
+  "payrollID": {
+    "$oid": "657fc4cf39bc9af861a2ce0d"
+  },
+  "__v": 0
+}]

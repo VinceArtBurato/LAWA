@@ -1,0 +1,276 @@
+[{
+  "_id": {
+    "$oid": "6579976457b53d1082451a4c"
+  },
+  "user": {
+    "$oid": "65785c395aeec21c2c7641f0"
+  },
+  "client": {
+    "$oid": "65577d97ed19c58268736213"
+  },
+  "product": {
+    "$oid": "65577f7007c3dcd0c4b721e1"
+  },
+  "quantity": 54,
+  "validationStatus": "pending",
+  "submissionID": {
+    "$oid": "6579976457b53d1082451a4d"
+  },
+  "dateSubmitted": {
+    "$date": "2023-12-13T11:37:08.876Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6579977057b53d1082451a52"
+  },
+  "user": {
+    "$oid": "65785c395aeec21c2c7641f0"
+  },
+  "client": {
+    "$oid": "65577d97ed19c58268736213"
+  },
+  "product": {
+    "$oid": "6557808207c3dcd0c4b721ee"
+  },
+  "quantity": 12,
+  "validationStatus": "pending",
+  "submissionID": {
+    "$oid": "6579977057b53d1082451a53"
+  },
+  "dateSubmitted": {
+    "$date": "2023-12-13T11:37:20.607Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6579977a57b53d1082451a58"
+  },
+  "user": {
+    "$oid": "65785c395aeec21c2c7641f0"
+  },
+  "client": {
+    "$oid": "65577d97ed19c58268736213"
+  },
+  "product": {
+    "$oid": "6557808207c3dcd0c4b721ee"
+  },
+  "quantity": 9,
+  "validationStatus": "pending",
+  "submissionID": {
+    "$oid": "6579977a57b53d1082451a59"
+  },
+  "dateSubmitted": {
+    "$date": "2023-12-13T11:37:30.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657997a957b53d1082451a69"
+  },
+  "user": {
+    "$oid": "6577ee527a4d679b00be67d0"
+  },
+  "client": {
+    "$oid": "65577d55ed19c58268736210"
+  },
+  "product": {
+    "$oid": "6557808207c3dcd0c4b721ee"
+  },
+  "quantity": 1,
+  "validationStatus": "pending",
+  "submissionID": {
+    "$oid": "657997a957b53d1082451a6a"
+  },
+  "dateSubmitted": {
+    "$date": "2023-12-13T11:38:17.724Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657997af57b53d1082451a6f"
+  },
+  "user": {
+    "$oid": "6577ee527a4d679b00be67d0"
+  },
+  "client": {
+    "$oid": "65577d55ed19c58268736210"
+  },
+  "product": {
+    "$oid": "6557808207c3dcd0c4b721ee"
+  },
+  "quantity": 5,
+  "validationStatus": "pending",
+  "submissionID": {
+    "$oid": "657997af57b53d1082451a70"
+  },
+  "dateSubmitted": {
+    "$date": "2023-12-13T11:38:23.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657997b357b53d1082451a75"
+  },
+  "user": {
+    "$oid": "6577ee527a4d679b00be67d0"
+  },
+  "client": {
+    "$oid": "65577d55ed19c58268736210"
+  },
+  "product": {
+    "$oid": "6557808207c3dcd0c4b721ee"
+  },
+  "quantity": 5,
+  "validationStatus": "pending",
+  "submissionID": {
+    "$oid": "657997b357b53d1082451a76"
+  },
+  "dateSubmitted": {
+    "$date": "2023-12-13T11:38:27.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657997b957b53d1082451a7b"
+  },
+  "user": {
+    "$oid": "6577ee527a4d679b00be67d0"
+  },
+  "client": {
+    "$oid": "65577d55ed19c58268736210"
+  },
+  "product": {
+    "$oid": "6557808207c3dcd0c4b721ee"
+  },
+  "quantity": 2,
+  "validationStatus": "pending",
+  "submissionID": {
+    "$oid": "657997b957b53d1082451a7c"
+  },
+  "dateSubmitted": {
+    "$date": "2023-12-13T11:38:33.636Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657e106cb0bcbd90276314ec"
+  },
+  "user": {
+    "$oid": "6577ee527a4d679b00be67d0"
+  },
+  "client": {
+    "$oid": "65577d55ed19c58268736210"
+  },
+  "product": {
+    "$oid": "6557808207c3dcd0c4b721ee"
+  },
+  "quantity": 5,
+  "validationStatus": "pending",
+  "submissionID": {
+    "$oid": "657e106cb0bcbd90276314ed"
+  },
+  "dateSubmitted": {
+    "$date": "2023-12-16T21:02:36.102Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657f023ab089a05d12b6752f"
+  },
+  "user": {
+    "$oid": "657f001cb089a05d12b674ba"
+  },
+  "client": {
+    "$oid": "65577d97ed19c58268736213"
+  },
+  "product": {
+    "$oid": "65577f7007c3dcd0c4b721e1"
+  },
+  "quantity": 2,
+  "validationStatus": "pending",
+  "submissionID": {
+    "$oid": "657f023ab089a05d12b67530"
+  },
+  "dateSubmitted": {
+    "$date": "2023-12-17T14:14:18.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657f023db089a05d12b67535"
+  },
+  "user": {
+    "$oid": "657f001cb089a05d12b674ba"
+  },
+  "client": {
+    "$oid": "65577d97ed19c58268736213"
+  },
+  "product": {
+    "$oid": "65577f7007c3dcd0c4b721e1"
+  },
+  "quantity": 6,
+  "validationStatus": "pending",
+  "submissionID": {
+    "$oid": "657f023db089a05d12b67536"
+  },
+  "dateSubmitted": {
+    "$date": "2023-12-17T14:14:21.997Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657f0242b089a05d12b6753b"
+  },
+  "user": {
+    "$oid": "657f001cb089a05d12b674ba"
+  },
+  "client": {
+    "$oid": "65577d97ed19c58268736213"
+  },
+  "product": {
+    "$oid": "65577f7007c3dcd0c4b721e1"
+  },
+  "quantity": 9,
+  "validationStatus": "pending",
+  "submissionID": {
+    "$oid": "657f0242b089a05d12b6753c"
+  },
+  "dateSubmitted": {
+    "$date": "2023-12-17T14:14:26.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657fb5b313df120d321fbe08"
+  },
+  "user": {
+    "$oid": "657fb54013df120d321fbdee"
+  },
+  "client": {
+    "$oid": "65577d55ed19c58268736210"
+  },
+  "product": {
+    "$oid": "6557808207c3dcd0c4b721ec"
+  },
+  "quantity": 4,
+  "validationStatus": "pending",
+  "submissionID": {
+    "$oid": "657fb5b313df120d321fbe09"
+  },
+  "dateSubmitted": {
+    "$date": "2023-12-18T03:00:03.081Z"
+  },
+  "__v": 0
+}]
