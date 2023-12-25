@@ -1,0 +1,96 @@
+.main-container {
+    background-image: url('./resources/LandingPage.jpeg');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .background-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('./resources/LandingPage.jpeg');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .logo-container {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    width: 300px;
+    height: 250px;
+    transform: translateX(-50%);
+    text-align: center;
+  }
+  
+  .text-center {
+    position: relative; 
+    text-align: center;
+    position: absolute; 
+    bottom: 55%; 
+    left: 50%; 
+    transform: translateX(-50%);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+  }
+  .text-center1 {
+    position: relative; 
+    text-align: center;
+    position: absolute; 
+    bottom: 52%; 
+    left: 50%; 
+    transform: translateX(-50%);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+  }
+  
+  .button-container {
+    text-align: center;
+    position: absolute;
+    top: 53%;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
+  .button-container1 {
+    text-align: center;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
+  .button {
+    background-color: #00bcd1; /* Change the background color */
+    color: #ffffff; /* Text color */
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    margin: 5px;
+    transition: background-color 0.3s;
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Add a subtle shadow */
+  }
+  
+  .button:hover {
+    background-color: #158d9a; /* Darker background on hover */
+  }
+  
+  /* Optional: Add some hover effects */
+  .button:hover {
+    transform: scale(1.05); /* Slightly enlarge on hover */
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.3); /* Enhance the shadow on hover */
+  }
+  
+  
