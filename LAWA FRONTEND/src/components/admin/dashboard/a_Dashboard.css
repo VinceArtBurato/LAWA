@@ -1,0 +1,207 @@
+/* Lake Apo Women’s Association Inc. */
+.text-white {
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+    font-family: 'Inter';
+  }
+  
+  /* Admin Name */
+  .text-white {
+    color: white;
+    font-size: 1rem;
+    font-weight: normal;
+    font-family: 'Abhaya Libre';
+    line-height: normal;
+  }
+  
+  /* Employees, Payroll, Product Submission, Logout */
+  .text-white {
+    color: white;
+    font-size: 2rem;
+    font-weight: normal;
+    font-family: 'Abhaya Libre';
+    line-height: 30px;
+  }
+  
+  /* Dashboard */
+  .text-black {
+    color: black;
+    font-size: 2rem;
+    font-weight: normal;
+    font-family: 'Abhaya Libre';
+    line-height: 30px;
+  }
+  
+  /* Admin */
+  .text-sky-800 {
+    color: #3a4f63;
+    font-size: 1rem;
+    font-weight: normal;
+    font-family: 'Roboto';
+    text-decoration: underline;
+    line-height: normal;
+  }
+  
+  /* / */
+  .text-gray-500 {
+    color: #718096;
+    font-size: 1rem;
+    font-weight: normal;
+    font-family: 'Abhaya Libre';
+    line-height: normal;
+  }
+  
+  /* Dashboard */
+  .text-gray-500 {
+    color: #718096;
+    font-size: 1rem;
+    font-weight: normal;
+    font-family: 'Roboto';
+    line-height: normal;
+  }
+  
+  /* Dashboard */
+  .text-neutral-800 {
+    color: #2d3748;
+    font-size: 3rem;
+    font-weight: normal;
+    font-family: 'Roboto';
+    line-height: 9;
+  }
+  
+  /* 17 */
+  .text-black {
+    color: black;
+    font-size: 40px;
+    font-weight: medium;
+    font-family: 'Roboto';
+    line-height: 48px;
+  }
+  
+  /* Total Employees, Pending Application */
+  .text-neutral-800 {
+    color: #2d3748;
+    font-size: 2rem;
+    font-weight: medium;
+    font-family: 'Roboto';
+    line-height: normal;
+  }
+  
+  /* | */
+  .text-stone-400 {
+    color: #6b7280;
+    font-size: 2rem;
+    font-weight: lighter;
+    font-family: 'Roboto';
+    line-height: normal;
+  }
+  
+  /* Current, Today */
+  .text-stone-400 {
+    color: #6b7280;
+    font-size: 1rem;
+    font-weight: lighter;
+    font-family: 'Roboto';
+    line-height: tight;
+  }
+  
+  /* 0 */
+  .text-black {
+    color: black;
+    font-size: 40px;
+    font-weight: medium;
+    font-family: 'Roboto';
+    line-height: 48px;
+  }
+  
+  /* Pending Submission */
+  .text-neutral-800 {
+    color: #2d3748;
+    font-size: 2rem;
+    font-weight: medium;
+    font-family: 'Roboto';
+    line-height: normal;
+  }
+  
+  /* | */
+  .text-stone-400 {
+    color: #6b7280;
+    font-size: 2rem;
+    font-weight: lighter;
+    font-family: 'Roboto';
+    line-height: normal;
+  }
+  
+  /* Today */
+  .text-stone-400 {
+    color: #6b7280;
+    font-size: 1rem;
+    font-weight: lighter;
+    font-family: 'Roboto';
+    line-height: tight;
+  }
+  
+  /* Recent Activity */
+  .text-neutral-800 {
+    color: #2d3748;
+    font-size: 2rem;
+    font-weight: medium;
+    font-family: 'Roboto';
+    line-height: normal;
+  }
+  
+  /* | */
+  .text-stone-400 {
+    color: #6b7280;
+    font-size: 2rem;
+    font-weight: lighter;
+    font-family: 'Roboto';
+    line-height: normal;
+  }
+  
+  /* Today */
+  .text-stone-400 {
+    color: #6b7280;
+    font-size: 1rem;
+    font-weight: lighter;
+    font-family: 'Roboto';
+    line-height: tight;
+  }
+  
+  /* Finished Products, This year, Report, This Month */
+  .text-neutral-800 {
+    color: #2d3748;
+    font-size: 2rem;
+    font-weight: medium;
+    font-family: 'Roboto';
+    line-height: normal;
+  }
+  
+  /* | */
+  .text-stone-400 {
+    color: #6b7280;
+    font-size: 2rem;
+    font-weight: lighter;
+    font-family: 'Roboto';
+    line-height: normal;
+  }
+  
+  /* 500 */
+  .text-black {
+    color: black;
+    font-size: 40px;
+    font-weight: medium;
+    font-family: 'Roboto';
+    line-height: 48px;
+  }
+  
+  /* You have sent notification to multiple employees, 30 min, 50 min, 2 hrs, You have generated multiple payslip, You checked Payroll, Employees, Product Submitted, Finished Producs */
+  .text-black {
+    color: black;
+    font-size: 0.875rem;
+    font-weight: normal;
+    font-family: 'Roboto';
+    line-height: 14.4px;
+  }
+  
