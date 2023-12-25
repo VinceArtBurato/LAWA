@@ -1,0 +1,133 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #FFF;
+  }
+  
+  .red {
+    color: red;
+  }
+
+  .back-button {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 10px; /* You can adjust the margin to control the spacing from the edges */
+  }
+  
+  .login-box {
+    background: #fff;
+    border: 1px solid #fff;
+    box-shadow: 0 2px 4px rgba(255, 255, 255, 0.1);
+    padding: 10px; /* Reduce padding for a more streamlined look */
+    text-align: center;
+    width: 400px; /* Wider box for a less bulky appearance */
+    border-radius: 8px;
+  }
+  
+  .logo {
+    width: 120px;
+    height: 103px;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .heading {
+    color: var(--body-text-body-color, #212529);
+    font-family: Abhaya Libre;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%; /* 38.4px */
+  }
+  
+  .subheading {
+    margin-top: 3px;
+    margin-bottom: 10px;
+    color: var(--body-text-body-color, #212529);
+    font-size: 14px;
+    font-weight: lighter;
+    line-height: 120%; /* 38.4px */
+  }
+  
+  .large-input {
+    width: 100%;
+    height: 40px;
+    padding: 8px; /* Slightly reduced padding for a more compact look */
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 1rem;
+  }
+  
+  label {
+    display: block;
+    text-align: left; /* Align labels to the left */
+    margin-bottom: 8px; 
+    font-weight: bold;
+  }
+  
+  .checkbox {
+    margin-top: 10px; /* Reduced margin for compactness */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background: var(--HitBox, rgba(255, 255, 255, 0.00));
+    padding: 10px;
+  }
+  
+  .checkbox-content {
+    font-size: 0.875rem;
+    display: flex;
+    flex-direction: row;
+    gap: 6px; /* Reduced gap for spacing */
+  }
+  
+  .custom-checkbox {
+    width: 20px;
+    height: 20px;
+  }
+  
+  .forgot-password {
+    color: #0D6EFD;
+    font-family: 'Abhaya Libre', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    text-decoration-line: underline;
+    margin-left: auto;
+}
+
+
+  
+  .signin-button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 12px; /* Slightly reduced padding for a more streamlined button */
+    width: 100%;
+    font-size: 1rem;
+    margin-top: 10px; /* Reduced margin for compactness */
+    cursor: pointer;
+  }
+  
+  .google-signin-button {
+    background-color: #fff;
+    color: #007BFF;
+    border: 1px solid #007BFF;
+    border-radius: 4px;
+    padding: 8px 12px; /* Slightly reduced padding for a more streamlined button */
+    width: 100%;
+    font-size: 1rem;
+    margin-top: 8px; /* Reduced margin for compactness */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .google-icon {
+    margin-right: 8px; /* Reduced margin for compactness */
+  }
+  
